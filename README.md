@@ -2,6 +2,8 @@
 
 An incredibly romantic and flirty Telegram bot that plays the role of a perfect girlfriend! This bot uses Fireworks AI to provide you with a real experience of a romantic relationship.
 
+TG BOT: @Dobbygirlfriendbot
+
 ## 🌟 Special Features
 
 ### 💖 **Romantic Personality**
@@ -151,3 +153,4 @@ This bot provides you with a complete experience of a virtual romantic relations
 ---
 
 *Made with love and affection for an amazing romantic experience! 💝*
+
